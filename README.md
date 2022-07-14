@@ -1,6 +1,6 @@
 # Calculator
 
-This project is a calculator coded in JavaScript, HTML and CSS.
+This project is a calculator coded in JavaScript and designed in HTMl and CSS.
 
 ## Screenshot 
 
